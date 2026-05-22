@@ -1,60 +1,100 @@
 # AI Wellness & Productivity Companion
 
-## Project Overview
-The AI Wellness & Productivity Companion is an AI-powered application designed to improve both productivity and mental wellbeing in the workplace. The app helps users manage daily tasks, reduce stress, and automate common activities using intelligent AI features.
+## Overview
+The AI Wellness & Productivity Companion is an AI-powered application designed to help users improve productivity while maintaining good mental wellbeing.
 
 ---
 
-## Problem Statement
-Many individuals face challenges such as:
-- Poor time management  
+## Problem
+Many people struggle with:
 - Stress and burnout  
-- Repetitive manual tasks (like writing emails)
-
-These issues reduce productivity and negatively affect overall wellbeing.
+- Poor time management  
+- Repetitive tasks like writing emails  
 
 ---
 
 ## Solution
-This project provides an AI assistant that:
-- Plans daily tasks efficiently  
-- Offers wellness and motivational support  
-- Generates professional emails  
-
-By combining productivity tools with wellness features, the app delivers a balanced and practical solution.
+This app helps users:
+- Plan tasks effectively  
+- Receive wellness guidance  
+- Generate emails quickly  
 
 ---
 
 ## Features
 
-### 1. Task Planner
-- Creates structured daily schedules  
+### Task Planner
+- Creates daily schedules  
 - Prioritizes tasks  
-- Includes breaks to prevent burnout  
+- Includes breaks  
 
----
+### Wellness Coach
+- Provides stress-relief advice  
+- Encourages healthy habits  
 
-### 2. Wellness Coach
-- Provides encouragement and emotional support  
-- Suggests stress-relief techniques  
-- Promotes healthy habits  
-
----
-
-### 3. Email Generator
+### Email Generator
 - Generates professional emails  
-- Adapts tone based on purpose and audience  
 
 ---
 
-## Tools & Technologies
-- Lovable.ai (App development)
-- AI Language Models (GPT-based)
-- HTML, JavaScript (optional customization)
+## Tools Used
+- Lovable.ai  
+- AI Language Models  
 - Prompt Engineering
 
 ---
 
-## Sample Prompts
+## Prompts
+## Task Planner Prompt
+You are a productivity and wellness assistant.
 
-### Task Planner Prompt
+Create a structured daily schedule based on the tasks below.
+
+Requirements:
+- Prioritize important tasks
+- Include short breaks
+- Assign realistic time slots
+- Maintain work-life balance
+
+Tasks:
+Finish assignment, attend meeting, study, exercise
+
+## Wellness Coach Prompt
+You are a supportive wellness coach.
+
+The user is feeling: stressed
+
+Provide:
+- Encouragement
+- 2–3 stress-relief tips
+- Positive and calming advice
+
+## Email Generator Prompt
+You are a professional email assistant.
+
+Write a clear and well-structured email.
+
+Details:
+Purpose: Request leave from manager
+Tone: Formal
+
+Include:
+- Subject line
+- Greeting
+- Body
+- Closing
+
+---
+
+## Live App
+https://smart-planner-guide.lovable.app
+
+---
+
+## Disclaimer
+This AI tool provides general suggestions. Always review outputs before use.
+
+---
+
+## Author
+Nandipha Thabede
